@@ -5,7 +5,7 @@ Unifying Colorado crypto.
 # Community Links
 
 * 🌐 [COblockchain.org](https://COblockchain.org) ⇒ https://linktr.ee/COblockchain
-* 👥 Community Chat (Telegram) ⇒ https://t.me/COblockchain
+* 👥 Community Chat (Telegram) ⇒ https://t.me/WinSocial
 * 📆 Events (Cyrptorado) ⇒ https://lu.ma/cryptorado
 
 ## Social Media
